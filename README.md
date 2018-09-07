@@ -2,6 +2,8 @@
 
 Demos of the [Chrome DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/) for various testing/automation techniques. For simplicity, these demos use [Puppeteer](https://github.com/GoogleChrome/puppeteer) to interact with the Chrome DevTools Protocol.
 
+These demos were originally used in a talk given at [Nordic.js](http://nordicjs.com/). You can [view the talk slides on Notist](https://noti.st/trentmwillis/wls5J4/powerful-automation-with-the-chrome-devtools-protocol).
+
 ## Setup
 
 In order to setup the demos for use, run the following commands (assuming you have [git](https://git-scm.com/) and [npm](https://www.npmjs.com/get-npm) installed):
